@@ -17,3 +17,4 @@ Project was done in following steps:
 6. Model Deployment: After developing and fine-tuning a model, the next step is to deploy it so that it can be integrated 
    into systems or applications to make predictions.
 
+Hosted webpage link: http://dsagroup8.pythonanywhere.com
